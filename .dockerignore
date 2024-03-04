@@ -1,0 +1,18 @@
+#git
+.git
+.gitignore
+
+#docker
+.docker
+
+#python
+app/__pychache__/
+app/*/__pychache__/
+app/*/*/__pychache__/
+app/*/*/*/__pychache__/
+.env/
+.venv/
+venv
+
+#local PostgreSQL data
+data/
